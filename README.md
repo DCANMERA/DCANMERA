@@ -1,7 +1,7 @@
 ### Hi there 🚀
 - 👋 Hi, I’m @DCANMERA
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Vue3/TypeScript/Node
+- 🌱 I’m currently learning Vue3/TypeScript/Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: `hongwei.ye@outlook.com`
 
